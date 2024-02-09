@@ -1,0 +1,22 @@
+---
+import Layout from "@/layouts/Layout.astro";
+
+import Hero from "@/components/Hero.astro";
+
+import { basics } from "@/cv.json";
+
+const title = `Hoja de vida - ${basics.name}`;
+---
+
+<Layout title={title}>
+	<main>
+		<Hero />
+	</main>
+</Layout>
+<style>
+    main {
+		margin: auto;
+        padding: 4rem;
+        width: 100%;
+    }
+</style>

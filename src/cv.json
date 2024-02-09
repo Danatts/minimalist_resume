@@ -1,0 +1,245 @@
+{
+  "basics": {
+    "name": "Daniel Arteta",
+    "label": "Economista y programador enfocado en la ciencia de datos y el desarrollo web",
+    "image": "https://avatars.githubusercontent.com/u/66077472?v=4",
+    "email": "danielatts97@gmail.com",
+    "phone": "+57 3125257772",
+    "url": "https://johndoe.com",
+    "summary": "Profesional en economia apasionado por las tecnologías de la\n informática. Tengo amplios conocimientos en análisis de datos y machine learning, haciendo uso de herramientas como Python, Excel, PowerBi y SQL. Además, cuento con experiencia trabajando con JavaScript para el desarrollo web. Mi enfoque proactivo y propositivo me permite afrontar desafíos con determinación, y mi capacidad para trabajar en equipo me convierte en un colaborador eficiente y comprometido.",
+    "location": {
+      "address": "Cl 24B # 71 - 04",
+      "postalCode": "110931",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "danatts",
+        "url": "https://github.com/Danatts"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Daniel Alfonso Arteta Salazar",
+        "url": "https://www.linkedin.com/in/danielartetasalazar/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Coally",
+      "position": "Desarrollador frontend",
+      "url": "https://coally.com/",
+      "startDate": "2022-10-01",
+      "endDate": "2023-04-31",
+      "summary": "Startup colombiana enfocada en conectar empresas con talento joven a través de inteligencia artificial",
+      "highlights": [
+        "Desarrollo y mantenimiento de la aplicación web de la empresa",
+        "Aseguramiento de la calidad del producto",
+        "Aplicación de metodologías ágiles"
+      ]
+    },
+    {
+      "name": "Registraduria Nacional de Colombia",
+      "position": "Profesional universitario",
+      "url": "https://www.registraduria.gov.co/",
+      "startDate": "2023-09-1",
+      "endDate": "2024-02-31",
+      "summary": "",
+      "highlights": [
+        "Apoyo en el manejo y presentación de datos para la generación de informes",
+        "Apoyo en la logística y desarrollo de procesos electorales",
+        "Atención al público"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional de Colombia",
+      "url": "https://unal.edu.co/",
+      "area": "Economía",
+      "studyType": "Pregrado",
+      "startDate": "2015-01-01",
+      "endDate": "2022-01-01",
+      "score": "3.7",
+      "courses": [
+        ""
+      ],
+      "label": [
+        "pregrado",
+        "economia"
+      ]
+    },
+    {
+      "institution": "Universidad del Rosario",
+      "url": "https://urosario.edu.co/",
+      "area": "Ciencia de datos",
+      "studyType": "Diplomado",
+      "startDate": "2023-06-01",
+      "endDate": "2022-08-01",
+      "score": "",
+      "courses": [
+        ""
+      ],
+      "label": [
+        "economia",
+        "programacion"
+      ]
+    },
+    {
+      "institution": "Universidad del Norte",
+      "url": "https://www.uninorte.edu.co/",
+      "area": "Habilidades digitales de programación",
+      "studyType": "Curso",
+      "startDate": "2020-02-01",
+      "endDate": "2020-06-01",
+      "score": "",
+      "courses": [
+        ""
+      ],
+      "label": [
+        "economia",
+        "programacion"
+      ]
+    },
+    {
+      "institution": "Make It Real",
+      "url": "https://www.uninorte.edu.co/",
+      "area": "Programación web fullstack",
+      "studyType": "Bootcamp",
+      "startDate": "2022-02-01",
+      "endDate": "2022-06-01",
+      "score": "",
+      "courses": [
+        ""
+      ],
+      "label": [
+        "programacion"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Excel",
+      "level": ""
+    },
+    {
+      "name": "PowerBi",
+      "level": ""
+    },
+    {
+      "name": "SQL",
+      "level": ""
+    },
+    {
+      "name": "Python",
+      "level": ""
+    },
+    {
+      "name": "JavaScript",
+      "level": ""
+    },
+    {
+      "name": "ReactJs",
+      "level": ""
+    },
+    {
+      "name": "NodeJs",
+      "level": ""
+    },
+    {
+      "name": "HTML",
+      "level": ""
+    },
+    {
+      "name": "CSS",
+      "level": ""
+    },
+    {
+      "name": "Git",
+      "level": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado"
+    },
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ajedrez",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Calistenia",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    }
+  ]
+}
