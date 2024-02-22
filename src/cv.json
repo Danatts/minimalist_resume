@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Daniel Arteta",
+    "name": "Daniel Arteta Salazar",
     "label": "Economista y programador enfocado en la ciencia de datos y el desarrollo web",
     "image": "https://avatars.githubusercontent.com/u/66077472?v=4",
     "email": "danielatts97@gmail.com",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "Github",
-        "username": "danatts",
+        "username": "Danatts",
         "url": "https://github.com/Danatts"
       },
       {
@@ -47,7 +47,7 @@
       "url": "https://www.registraduria.gov.co/",
       "startDate": "2023-09-1",
       "endDate": "2024-02-31",
-      "summary": "",
+      "summary": "Procesos electorales y atención al ciudadano.",
       "highlights": [
         "Apoyo en el manejo y presentación de datos para la generación de informes",
         "Apoyo en la logística y desarrollo de procesos electorales",
