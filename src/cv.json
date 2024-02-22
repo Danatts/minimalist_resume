@@ -63,9 +63,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": []
     }
   ],
   "education": [
@@ -77,13 +75,7 @@
       "startDate": "2015-01-01",
       "endDate": "2022-01-01",
       "score": "3.7",
-      "courses": [
-        ""
-      ],
-      "label": [
-        "pregrado",
-        "economia"
-      ]
+      "courses": []
     },
     {
       "institution": "Universidad del Rosario",
@@ -93,13 +85,7 @@
       "startDate": "2023-06-01",
       "endDate": "2022-08-01",
       "score": "",
-      "courses": [
-        ""
-      ],
-      "label": [
-        "economia",
-        "programacion"
-      ]
+      "courses": []
     },
     {
       "institution": "Universidad del Norte",
@@ -109,13 +95,7 @@
       "startDate": "2020-02-01",
       "endDate": "2020-06-01",
       "score": "",
-      "courses": [
-        ""
-      ],
-      "label": [
-        "economia",
-        "programacion"
-      ]
+      "courses": []
     },
     {
       "institution": "Make It Real",
@@ -125,12 +105,7 @@
       "startDate": "2022-02-01",
       "endDate": "2022-06-01",
       "score": "",
-      "courses": [
-        ""
-      ],
-      "label": [
-        "programacion"
-      ]
+      "courses": []
     }
   ],
   "awards": [
@@ -160,44 +135,54 @@
   ],
   "skills": [
     {
-      "name": "Excel",
-      "level": ""
-    },
-    {
       "name": "PowerBi",
-      "level": ""
-    },
-    {
-      "name": "SQL",
-      "level": ""
+      "level": "Master",
+      "keywords": []
     },
     {
       "name": "Python",
-      "level": ""
+      "level": "Master",
+      "keywords": []
     },
     {
       "name": "JavaScript",
-      "level": ""
+      "level": "Master",
+      "keywords": []
     },
     {
-      "name": "ReactJs",
-      "level": ""
+      "name": "SQL",
+      "level": "Master",
+      "keywords": []
     },
     {
-      "name": "NodeJs",
-      "level": ""
+      "name": "Excel",
+      "level": "Master",
+      "keywords": []
     },
     {
       "name": "HTML",
-      "level": ""
+      "level": "Master",
+      "keywords": []
     },
     {
       "name": "CSS",
-      "level": ""
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "ReactJS",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "NodeJS",
+      "level": "Master",
+      "keywords": []
     },
     {
       "name": "Git",
-      "level": ""
+      "level": "Master",
+      "keywords": []
     }
   ],
   "languages": [
@@ -213,15 +198,11 @@
   "interests": [
     {
       "name": "Ajedrez",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     },
     {
       "name": "Calistenia",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     }
   ],
   "references": [
@@ -236,9 +217,7 @@
       "startDate": "",
       "endDate": "",
       "description": "",
-      "highlights": [
-        ""
-      ],
+      "highlights": [],
       "url": ""
     }
   ]
