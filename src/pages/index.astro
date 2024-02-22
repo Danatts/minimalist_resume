@@ -1,22 +1,29 @@
 ---
-import Layout from "@/layouts/Layout.astro";
+import '@fontsource-variable/source-code-pro';
 
-import Hero from "@/components/Hero.astro";
-
-import { basics } from "@/cv.json";
-
-const title = `Hoja de vida - ${basics.name}`;
+import Hero from '@/components/Hero.astro';
+import About from '@/components/About.astro';
+import Experience from '@/components/Experience.astro';
 ---
 
-<Layout title={title}>
-	<main>
-		<Hero />
-	</main>
-</Layout>
-<style>
-    main {
-		margin: auto;
-        padding: 4rem;
-        width: 100%;
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>Hoja de Vida</title>
+    </head>
+    <body>
+        <main class="my-10">
+            <Hero />
+            <About />
+            <Experience />
+        </main>
+    </body>
+</html>
+<style is:global>
+    html {
+        font-family: "Source Code Pro Variable", monospace;
     }
 </style>

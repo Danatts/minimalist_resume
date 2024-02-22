@@ -6,13 +6,7 @@ interface Props {
 const { title } = Astro.props;
 ---
 
-<section>
-    {title && <h2>{title}</h2>}
+<section class="max-w-3xl mb-8 mx-auto">
+    {title && <h2 class="text-2xl font-extrabold mb-4">{title}</h2>}
     <slot />
 </section>
-<style>
-    section {
-        margin: 0 auto 7rem;
-        max-width: 70rem;
-    }
-</style>
