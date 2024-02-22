@@ -1,0 +1,21 @@
+---
+interface Props {
+    education: {
+        institution: string;
+        area: string;
+        url: string;
+        studyType: string;
+        startDate: string;
+        endDate: string;
+        score: string;
+        courses: string[];
+    };
+}
+
+const { education } = Astro.props;
+---
+
+<div class="flex flex-col gap-1">
+    <h1 class="font-bold">{education.area} - {education.studyType}</h1>
+    <h2 class="font-semibold"><a href={education.url}>{education.institution}</a></h2>
+</div>
