@@ -1,0 +1,11 @@
+---
+import { work } from "@/cv.json";
+import Section from "@/components/Section.astro";
+import ExperienceCard from "@/components/ExperienceCard.astro";
+---
+
+<Section title="Experience">
+    <div class="flex flex-col gap-6">
+        {work.map((e) => <ExperienceCard work={e} />)}
+    </div>
+</Section>

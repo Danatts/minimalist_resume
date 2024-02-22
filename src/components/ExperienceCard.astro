@@ -1,0 +1,21 @@
+---
+interface Props {
+    work: {
+        name: string;
+        position: string;
+        url: string;
+        startDate: string;
+        endDate: string;
+        summary: string;
+        highlights: string[];
+    };
+}
+
+const { work } = Astro.props;
+---
+
+<div class="flex flex-col gap-1">
+    <h1 class="font-bold">{work.position}</h1>
+    <h2 class="font-semibold"><a href={work.url}>{work.name}</a></h2>
+    <p>{work.summary}</p>
+</div>
