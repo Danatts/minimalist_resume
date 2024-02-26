@@ -1,8 +1,10 @@
 ---
 import { basics } from '@/cv.json';
 import Section from '@/components/Section.astro';
+
+const title = "Sobre mí";
 ---
 
-<Section title="Sobre mí">
+<Section title={title}>
     <p class="text-pretty text-sm">{basics.summary}</p>
 </Section>
