@@ -1,4 +1,6 @@
 ---
+import { formatDate } from "@/scripts/utils";
+
 interface Props {
     work: {
         name: string;
@@ -14,8 +16,17 @@ interface Props {
 const { work } = Astro.props;
 ---
 
-<div class="flex flex-col gap-1">
-    <h1 class="font-bold">{work.position}</h1>
-    <h2 class="font-semibold"><a href={work.url}>{work.name}</a></h2>
-    <p>{work.summary}</p>
+<div class="flex flex-col gap-2">
+    <div>
+        <div class="flex justify-between">
+            <h1 class="text-base font-semibold">{work.position}</h1>
+            <h1 class="text-sm font-medium">
+                {`${formatDate(work.startDate)} - ${formatDate(work.endDate)}`}
+            </h1>
+        </div>
+        <h2 class="text-sm font-medium">
+            <a href={work.url}>{work.name}</a>
+        </h2>
+    </div>
+    <p class="text-sm text-neutral-500">{work.summary}</p>
 </div>

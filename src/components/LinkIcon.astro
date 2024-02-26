@@ -7,6 +7,7 @@ interface Props {
     network: string;
     url: string;
     username: string;
+    size: number;
 }
 
 const SOCIAL_ICONS: SocialIcon = {
@@ -14,13 +15,13 @@ const SOCIAL_ICONS: SocialIcon = {
     Linkedin,
 };
 
-const { network, url, username } = Astro.props;
+const { network, url, username, size } = Astro.props;
 const Icon = SOCIAL_ICONS[network];
 ---
 
 <span>
     <a class="flex gap-1 text-sm" href={url} target="_blank">
-        <Icon size={20} />
+        <Icon size={size} />
         {username}
     </a>
 </span>

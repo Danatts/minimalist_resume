@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Daniel Arteta Salazar",
+    "name": "Daniel Alfonso Arteta Salazar",
     "label": "Economista | Analista | Programador",
     "image": "https://avatars.githubusercontent.com/u/66077472?v=4",
     "email": "danielatts97@gmail.com",
@@ -29,19 +29,6 @@
   },
   "work": [
     {
-      "name": "Coally",
-      "position": "Desarrollador frontend",
-      "url": "https://coally.com/",
-      "startDate": "2022-10-01",
-      "endDate": "2023-04-31",
-      "summary": "Startup colombiana enfocada en conectar empresas con talento joven a través de inteligencia artificial",
-      "highlights": [
-        "Desarrollo y mantenimiento de la aplicación web de la empresa",
-        "Aseguramiento de la calidad del producto",
-        "Aplicación de metodologías ágiles"
-      ]
-    },
-    {
       "name": "Registraduria Nacional de Colombia",
       "position": "Profesional universitario",
       "url": "https://www.registraduria.gov.co/",
@@ -52,6 +39,19 @@
         "Apoyo en el manejo y presentación de datos para la generación de informes",
         "Apoyo en la logística y desarrollo de procesos electorales",
         "Atención al público"
+      ]
+    },
+    {
+      "name": "Coally",
+      "position": "Desarrollador frontend",
+      "url": "https://coally.com/",
+      "startDate": "2022-10-01",
+      "endDate": "2023-04-31",
+      "summary": "Startup colombiana enfocada en conectar empresas con talento joven a través de inteligencia artificial",
+      "highlights": [
+        "Desarrollo y mantenimiento de la aplicación web de la empresa",
+        "Aseguramiento de la calidad del producto",
+        "Aplicación de metodologías ágiles"
       ]
     }
   ],
@@ -72,8 +72,8 @@
       "url": "https://unal.edu.co/",
       "area": "Economía",
       "studyType": "Pregrado",
-      "startDate": "2015-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2015-02-01",
+      "endDate": "2022-11-01",
       "score": "3.7",
       "courses": []
     },
@@ -83,7 +83,7 @@
       "area": "Ciencia de datos",
       "studyType": "Diplomado",
       "startDate": "2023-06-01",
-      "endDate": "2022-08-01",
+      "endDate": "2023-08-01",
       "score": "",
       "courses": []
     },

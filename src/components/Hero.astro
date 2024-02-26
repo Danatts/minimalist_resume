@@ -7,23 +7,24 @@ import Location from "@/icons/Location.astro";
 import Phone from "@/icons/Phone.astro";
 
 const { profiles } = basics;
+const ICON_SIZE = 20;
 ---
 
 <Section title="">
     <div class="flex gap-28 justify-between items-center">
-        <div class="flex flex-col gap-2">
-            <h1 class="font-semibold text-2xl">{basics.name}</h1>
-            <h2 class="text-lg">{basics.label}</h2>
+        <div class="flex flex-col gap-1">
+            <h1 class="font-bold text-2xl">{basics.name}</h1>
+            <h2 class="font-medium text-lg text-neutral-500">{basics.label}</h2>
             <span class="text-sm flex gap-1">
-                <Mail size={20} />
+                <Mail size={ICON_SIZE} />
                 {basics.email}
             </span>
             <span class="text-sm flex gap-1">
-                <Phone size={20} />
+                <Phone size={ICON_SIZE} />
                 {basics.phone}
             </span>
             <span class="text-sm flex gap-1">
-                <Location size={20} />
+                <Location size={ICON_SIZE} />
                 {basics.location.city}, {basics.location.region}
             </span>
             {
@@ -32,6 +33,7 @@ const { profiles } = basics;
                         url={p.url}
                         network={p.network}
                         username={p.username}
+                        size={ICON_SIZE}
                     />
                 ))
             }

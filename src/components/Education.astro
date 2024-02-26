@@ -2,10 +2,14 @@
 import { education } from "@/cv.json";
 import Section from "@/components/Section.astro";
 import EducationCard from "@/components/EducationCard.astro";
+
+const title = "Educación";
+
+education.sort((a,b) => (a.endDate > b.endDate) ? -1 : ((b.endDate > a.endDate) ? 1 : 0));
 ---
 
-<Section title="Educación">
-    <ul class="flex flex-col gap-6">
+<Section title={title}>
+    <ul class="flex flex-col gap-4">
         {
             education.map((e) => (
                 <li>

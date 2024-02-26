@@ -2,14 +2,18 @@
 import { work } from "@/cv.json";
 import Section from "@/components/Section.astro";
 import ExperienceCard from "@/components/ExperienceCard.astro";
+
+const title = "Experiencia";
+
+work.sort((a,b) => (a.startDate > b.startDate) ? -1 : ((b.startDate > a.startDate) ? 1 : 0));
 ---
 
-<Section title="Experiencia">
-    <ul class="flex flex-col gap-6">
+<Section title={title}>
+    <ul class="flex flex-col gap-4">
         {
-            work.map((e) => (
+            work.map((w) => (
                 <li>
-                    <ExperienceCard work={e} />
+                    <ExperienceCard work={w} />
                 </li>
             ))
         }
