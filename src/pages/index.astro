@@ -1,9 +1,10 @@
 ---
-import '@fontsource-variable/source-code-pro';
-
+import '@fontsource-variable/montserrat';
 import Hero from '@/components/Hero.astro';
 import About from '@/components/About.astro';
 import Experience from '@/components/Experience.astro';
+import Education from '@/components/Education.astro';
+import Skills from '@/components/Skills.astro';
 ---
 
 <!doctype html>
@@ -15,15 +16,17 @@ import Experience from '@/components/Experience.astro';
         <title>Hoja de Vida</title>
     </head>
     <body>
-        <main class="my-10">
+        <main class="my-5 mx-5">
             <Hero />
             <About />
             <Experience />
+            <Education />
+            <Skills />
         </main>
     </body>
 </html>
 <style is:global>
     html {
-        font-family: "Source Code Pro Variable", monospace;
+        font-family: 'Montserrat Variable', sans-serif;
     }
 </style>

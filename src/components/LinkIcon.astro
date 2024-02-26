@@ -1,0 +1,26 @@
+---
+import type { SocialIcon } from "@/types";
+import Github from "@/icons/Github.astro";
+import Linkedin from "@/icons/Linkedin.astro";
+
+interface Props {
+    network: string;
+    url: string;
+    username: string;
+}
+
+const SOCIAL_ICONS: SocialIcon = {
+    Github,
+    Linkedin,
+};
+
+const { network, url, username } = Astro.props;
+const Icon = SOCIAL_ICONS[network];
+---
+
+<span>
+    <a class="flex gap-1 text-sm" href={url} target="_blank">
+        <Icon size={20} />
+        {username}
+    </a>
+</span>

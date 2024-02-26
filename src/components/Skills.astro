@@ -1,0 +1,17 @@
+---
+import { skills } from "@/cv.json";
+import Section from "@/components/Section.astro";
+import SkillPill from "@/components/SkillPill.astro";
+---
+
+<Section title="Habilidades">
+    <ul class="flex flex-wrap gap-2 justify-stretch">
+        {
+            skills.map((e) => (
+                <li>
+                    <SkillPill skill={e} />
+                </li>
+            ))
+        }
+    </ul>
+</Section>

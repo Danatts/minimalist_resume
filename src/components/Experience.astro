@@ -5,7 +5,13 @@ import ExperienceCard from "@/components/ExperienceCard.astro";
 ---
 
 <Section title="Experiencia">
-    <div class="flex flex-col gap-6">
-        {work.map((e) => <ExperienceCard work={e} />)}
-    </div>
+    <ul class="flex flex-col gap-6">
+        {
+            work.map((e) => (
+                <li>
+                    <ExperienceCard work={e} />
+                </li>
+            ))
+        }
+    </ul>
 </Section>

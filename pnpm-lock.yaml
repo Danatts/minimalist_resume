@@ -8,7 +8,7 @@ dependencies:
   '@astrojs/tailwind':
     specifier: ^5.1.0
     version: 5.1.0(astro@4.4.2)(tailwindcss@3.4.1)
-  '@fontsource-variable/source-code-pro':
+  '@fontsource-variable/montserrat':
     specifier: ^5.0.17
     version: 5.0.17
   astro:
@@ -536,8 +536,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource-variable/source-code-pro@5.0.17:
-    resolution: {integrity: sha512-O1Hn0QamTJDfFauR68ALijno0xTOy/sJAE/cORyP2s5unEiJOZj0EBQIhHymHdS7XI+xccAfSEdaZNmz9rhttA==}
+  /@fontsource-variable/montserrat@5.0.17:
+    resolution: {integrity: sha512-kRPFY+sLUPE4fGTkuHu6phebYTwizsbGVIvqYa2vysRLPKUxwoiy1lb9Z4Qul8qoVspXnl0b9zA5LSn0scD9vA==}
     dev: false
 
   /@isaacs/cliui@8.0.2:
