@@ -1,11 +1,14 @@
 ---
 import { work } from "@/cv.json";
 import Section from "@/components/Section.astro";
-import ExperienceCard from "@/components/ExperienceCard.astro";
+import Card from "@/components/Card.astro";
+import Text from "@/components/Text.astro";
 
 const title = "Experiencia";
 
-work.sort((a,b) => (a.startDate > b.startDate) ? -1 : ((b.startDate > a.startDate) ? 1 : 0));
+work.sort((a, b) =>
+    a.startDate > b.startDate ? -1 : b.startDate > a.startDate ? 1 : 0,
+);
 ---
 
 <Section title={title}>
@@ -13,7 +16,15 @@ work.sort((a,b) => (a.startDate > b.startDate) ? -1 : ((b.startDate > a.startDat
         {
             work.map((w) => (
                 <li>
-                    <ExperienceCard work={w} />
+                    <Card
+                        title={w.position}
+                        subtitle={w.name}
+                        subUrl={w.url}
+                        start={w.startDate}
+                        end={w.endDate}
+                    >
+                        <Text>{w.summary}</Text>
+                    </Card>
                 </li>
             ))
         }
