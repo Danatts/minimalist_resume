@@ -1,1 +1,1 @@
-# Resume
+# Minimalist Resume

@@ -1,7 +1,7 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
-    "baseUrl": "/home/daniel/Projects/resume",
+    "baseUrl": "/home/daniel/Projects/minimalist_resume",
     "paths": {
       "@/*": [
         "src/*"
