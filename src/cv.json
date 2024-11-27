@@ -6,7 +6,7 @@
     "email": "danielatts97@gmail.com",
     "phone": "+57 312 525 7772",
     "url": "https://johndoe.com",
-    "summary": "Profesional en economía apasionado por las tecnologías de la informática. Tengo amplios conocimientos en ciencia de datos haciendo uso de diferentes tecnologías para el manejo y uso de bases de datos. Además, cuento con experiencia trabajando en el desarrollo de aplicaiones y servidores web. Mi enfoque proactivo y propositivo me permite afrontar desafíos con determinación, y mi capacidad para trabajar en equipo me convierte en un colaborador eficiente y comprometido.",
+    "summary": "Como profesional en economía, he desarrollado una sólida formación en tecnologías informáticas y ciencia de datos, permitiéndome gestionar información mediante herramientas especializadas. Mi experiencia se caracteriza por el análisis riguroso y la elaboración de documentos técnicos que facilitan procesos de decisión estratégica. Con un enfoque proactivo y propositivo, afronto desafíos profesionales con determinación, destacando mi capacidad de adaptación y compromiso. Mi habilidad para integrar conocimientos técnicos con análisis económico, junto con mi competencia para trabajar colaborativamente, me permite aportar soluciones innovadoras y efectivas en entornos profesionales complejos.",
     "location": {
       "address": "Cl 24B # 71 - 04",
       "postalCode": "110931",
@@ -29,12 +29,25 @@
   },
   "work": [
     {
+      "name": "Ministerio del Trabajo",
+      "position": "Contratista",
+      "url": "https://coally.com/",
+      "startDate": "2024-07-3",
+      "endDate": "2024-12-31",
+      "summary": "Prestación de servicios profesionales a la Subdirección de Formalización y Protección del Empleo, acompañando el desarrollo de actividades relacionadas con las diferentes estrategias, políticas y programas en el marco de la formalización y protección del empleo.",
+      "highlights": [
+        "Desarrollo y mantenimiento de la aplicación web de la empresa",
+        "Aseguramiento de la calidad del producto",
+        "Aplicación de metodologías ágiles"
+      ]
+    },
+    {
       "name": "Registraduria Nacional de Colombia",
       "position": "Profesional universitario",
-      "url": "https://www.registraduria.gov.co/",
-      "startDate": "2023-09-1",
-      "endDate": "2024-02-31",
-      "summary": "Desempeñé funciones que abarcaron desde el respaldo en la gestión y presentación de datos para la elaboración de informes, participación en la logística y desarrollo de procesos electorales y atención al público, asegurando un servicio eficiente y satisfactorio.",
+      "url": "https://www.mintrabajo.gov.co/",
+      "startDate": "2023-09-5",
+      "endDate": "2023-02-16",
+      "summary": "Ejecución de diversas funciones que abarcan la gestión y presentación de datos para la elaboración de informes, la participación en la logística y desarrollo de procesos electorales, y la atención al público asegurando un servicio eficiente y satisfactorio.",
       "highlights": [
         "Apoyo en el manejo y presentación de datos para la generación de informes",
         "Apoyo en la logística y desarrollo de procesos electorales",
@@ -45,9 +58,9 @@
       "name": "Coally",
       "position": "Desarrollador frontend",
       "url": "https://coally.com/",
-      "startDate": "2022-10-01",
-      "endDate": "2023-04-31",
-      "summary": "Startup colombiana dedicada a la conexión entre empresas y talento joven mediante inteligencia artificial. Mi rol incluía el desarrollo y mantenimiento de la aplicación web usando React, la garantía de la calidad del producto a través de testing y la implementación de metodologías ágiles en colaboración con el equipo de desarrollo.",
+      "startDate": "2022-10-18",
+      "endDate": "2023-04-1",
+      "summary": "Desarrollo y mantenimiento de la aplicación web de startup colombiana dedicada a la conexión entre empresas y talento joven mediante inteligencia artificial. Con énfasis en pruebas de calidad del producto y la implementación de metodologías ágiles en colaboración con el equipo de desarrollo.",
       "highlights": [
         "Desarrollo y mantenimiento de la aplicación web de la empresa",
         "Aseguramiento de la calidad del producto",
@@ -96,16 +109,6 @@
       "endDate": "2020-06-01",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "Make It Real",
-      "url": "https://www.uninorte.edu.co/",
-      "area": "Programación web fullstack",
-      "studyType": "Bootcamp",
-      "startDate": "2022-02-01",
-      "endDate": "2022-06-01",
-      "score": "",
-      "courses": []
     }
   ],
   "awards": [
@@ -145,7 +148,7 @@
       "keywords": []
     },
     {
-      "name": "Javascript",
+      "name": "Excel",
       "level": "Master",
       "keywords": []
     },
@@ -155,32 +158,12 @@
       "keywords": []
     },
     {
-      "name": "Excel",
-      "level": "Master",
-      "keywords": []
-    },
-    {
-      "name": "ReactJS",
+      "name": "Javascript",
       "level": "Master",
       "keywords": []
     },
     {
       "name": "NodeJS",
-      "level": "Master",
-      "keywords": []
-    },
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": []
-    },
-    {
-      "name": "Git",
       "level": "Master",
       "keywords": []
     }
