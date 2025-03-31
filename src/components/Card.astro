@@ -10,6 +10,8 @@ interface Props {
 }
 
 const { title, subtitle, subUrl, start, end } = Astro.props;
+
+const endDate: string = end ? formatDate(end) : "Actual"
 ---
 
 <div class="flex flex-col gap-2">
@@ -20,7 +22,7 @@ const { title, subtitle, subUrl, start, end } = Astro.props;
                 <a href={subUrl}>{subtitle}</a>
             </h4>
             <p class="text-sm font-normal">
-                {`${formatDate(start)} - ${formatDate(end)}`}
+                {`${formatDate(start)} - ${endDate}`}
             </p>
         </div>
     </div>

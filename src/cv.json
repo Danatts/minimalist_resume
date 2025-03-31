@@ -6,7 +6,7 @@
     "email": "danielatts97@gmail.com",
     "phone": "+57 312 525 7772",
     "url": "https://johndoe.com",
-    "summary": "Como profesional en economía, he desarrollado una sólida formación en tecnologías informáticas y ciencia de datos, permitiéndome gestionar información mediante herramientas especializadas. Mi experiencia se caracteriza por el análisis riguroso y la elaboración de documentos técnicos que facilitan procesos de decisión estratégica. Con un enfoque proactivo y propositivo, afronto desafíos profesionales con determinación, destacando mi capacidad de adaptación y compromiso. Mi habilidad para integrar conocimientos técnicos con análisis económico, junto con mi competencia para trabajar colaborativamente, me permite aportar soluciones innovadoras y efectivas en entornos profesionales complejos.",
+    "summary": "Como profesional en economía, he desarrollado una sólida formación en tecnologías informáticas y ciencia de datos, permitiéndome gestionar información mediante herramientas especializadas. Mi experiencia se caracteriza por el análisis riguroso y la elaboración de documentos técnicos que facilitan procesos de decisión estratégica. Con un enfoque proactivo y propositivo, afronto los desafíos con determinación, destacando mi capacidad de adaptación y compromiso. Mi habilidad para integrar conocimientos técnicos con análisis económico, junto con mi competencia para trabajar colaborativamente, me permite aportar soluciones efectivas a las tareas.",
     "location": {
       "address": "Cl 24B # 71 - 04",
       "postalCode": "110931",
@@ -30,11 +30,11 @@
   "work": [
     {
       "name": "Ministerio del Trabajo",
-      "position": "Contratista",
-      "url": "https://coally.com/",
+      "position": "Contratista profesional",
+      "url": "https://www.mintrabajo.gov.co/",
       "startDate": "2024-07-3",
-      "endDate": "2024-12-31",
-      "summary": "Prestación de servicios profesionales a la Subdirección de Formalización y Protección del Empleo, acompañando el desarrollo de actividades relacionadas con las diferentes estrategias, políticas y programas en el marco de la formalización y protección del empleo.",
+      "endDate": "",
+      "summary": "Prestación de servicios profesionales a la Subdirección de Formalización y Protección del Empleo, acompañando el desarrollo de actividades relacionadas con las diferentes estrategias, políticas y programas en el marco de la formalización laboral. Trabajo con las bases de datos de los resultados de programas sociales y de gestión interna realizando el procesamiento de estas para su posterior presentación a través de informes y tableros de control.",
       "highlights": [
         "Desarrollo y mantenimiento de la aplicación web de la empresa",
         "Aseguramiento de la calidad del producto",
@@ -44,7 +44,7 @@
     {
       "name": "Registraduria Nacional de Colombia",
       "position": "Profesional universitario",
-      "url": "https://www.mintrabajo.gov.co/",
+      "url": "https://registraduria.gov.co/",
       "startDate": "2023-09-5",
       "endDate": "2023-02-16",
       "summary": "Ejecución de diversas funciones que abarcan la gestión y presentación de datos para la elaboración de informes, la participación en la logística y desarrollo de procesos electorales, y la atención al público asegurando un servicio eficiente y satisfactorio.",
@@ -56,11 +56,11 @@
     },
     {
       "name": "Coally",
-      "position": "Desarrollador frontend",
+      "position": "Desarrollador de software",
       "url": "https://coally.com/",
       "startDate": "2022-10-18",
       "endDate": "2023-04-1",
-      "summary": "Desarrollo y mantenimiento de la aplicación web de startup colombiana dedicada a la conexión entre empresas y talento joven mediante inteligencia artificial. Con énfasis en pruebas de calidad del producto y la implementación de metodologías ágiles en colaboración con el equipo de desarrollo.",
+      "summary": "Desarrollo y mantenimiento de la aplicación web de startup colombiana dedicada a la conexión entre empresas y talento joven. Con énfasis en el desarrollo frontend,  el manejo de las bases de datos de los usuarios y la aplicación de pruebas de calidad.",
       "highlights": [
         "Desarrollo y mantenimiento de la aplicación web de la empresa",
         "Aseguramiento de la calidad del producto",
@@ -144,6 +144,11 @@
     },
     {
       "name": "Python",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Jupyter Notebook",
       "level": "Master",
       "keywords": []
     },
