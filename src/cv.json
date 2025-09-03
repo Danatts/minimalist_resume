@@ -6,7 +6,7 @@
     "email": "danielatts97@hotmail.com",
     "phone": "+57 312 525 7772",
     "url": "https://johndoe.com",
-    "summary": "Como profesional en economía, he desarrollado una sólida formación en tecnologías informáticas y ciencia de datos, permitiéndome gestionar información mediante herramientas especializadas. Mi experiencia se caracteriza por el análisis riguroso y la elaboración de documentos técnicos que facilitan procesos de decisión estratégica. Con un enfoque proactivo y propositivo, afronto los desafíos con determinación, destacando mi capacidad de adaptación y compromiso. Mi habilidad para integrar conocimientos técnicos con análisis económico, junto con mi competencia para trabajar colaborativamente, me permite aportar soluciones efectivas a las tareas.",
+    "summary": "Como profesional en economía enfocado al análisis de datos, he desarrollado una sólida formación en tecnologías informáticas y ciencia de datos, permitiéndome gestionar información mediante herramientas especializadas. Mi experiencia se caracteriza por el análisis riguroso y la elaboración de documentos técnicos que facilitan procesos de decisión estratégica. Con un enfoque proactivo y propositivo, afronto los desafíos con determinación, destacando mi capacidad de adaptación y compromiso. Mi habilidad para integrar conocimientos técnicos con análisis económico, junto con mi competencia para trabajar colaborativamente, me permite aportar soluciones efectivas a las tareas.",
     "location": {
       "address": "Cl 24B # 71 - 04",
       "postalCode": "110931",
@@ -80,6 +80,16 @@
     }
   ],
   "education": [
+    {
+      "institution": "Universidad Antonio Nariño",
+      "url": "https://uan.edu.co/",
+      "area": "Actuaría",
+      "studyType": "Especialización",
+      "startDate": "2015-02-01",
+      "endDate": "",
+      "score": "3.7",
+      "courses": []
+    },
     {
       "institution": "Universidad Nacional de Colombia",
       "url": "https://unal.edu.co/",
