@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Daniel Alfonso Arteta Salazar",
-    "label": "Economista | Analista | Programador",
-    "image": "https://avatars.githubusercontent.com/u/66077472?v=4",
-    "email": "danielatts97@hotmail.com",
+    "label": "Economía | Análisis de datos | Programación | Actuaría",
+    "image": "src/images/perfil_01.jpg",
+    "email": "danielatts97@protonmail.com",
     "phone": "+57 312 525 7772",
-    "url": "https://johndoe.com",
+    "url": "https://danattsresume.netlify.app/",
     "summary": "Como profesional en economía enfocado al análisis de datos, he desarrollado una sólida formación en tecnologías informáticas y ciencia de datos, permitiéndome gestionar información mediante herramientas especializadas. Mi experiencia se caracteriza por el análisis riguroso y la elaboración de documentos técnicos que facilitan procesos de decisión estratégica. Con un enfoque proactivo y propositivo, afronto los desafíos con determinación, destacando mi capacidad de adaptación y compromiso. Mi habilidad para integrar conocimientos técnicos con análisis económico, junto con mi competencia para trabajar colaborativamente, me permite aportar soluciones efectivas a las tareas.",
     "location": {
       "address": "Cl 24B # 71 - 04",
@@ -81,9 +81,10 @@
   ],
   "education": [
     {
+      "order": 0,
       "institution": "Universidad Antonio Nariño",
-      "url": "https://uan.edu.co/",
-      "area": "Especialización en actuaría",
+      "url": "https://www.uan.edu.co/especializacion-en-actuaria",
+      "area": "Actuaría",
       "studyType": "Especialización",
       "startDate": "2025-08-01",
       "endDate": "",
@@ -91,6 +92,7 @@
       "courses": []
     },
     {
+      "order": 2,
       "institution": "Universidad Nacional de Colombia",
       "url": "https://unal.edu.co/",
       "area": "Economía",
@@ -101,6 +103,7 @@
       "courses": []
     },
     {
+      "order": 1,
       "institution": "Universidad del Rosario",
       "url": "https://urosario.edu.co/",
       "area": "Ciencia de datos",
@@ -111,6 +114,7 @@
       "courses": []
     },
     {
+      "order": 3,
       "institution": "Universidad del Norte",
       "url": "https://www.uninorte.edu.co/",
       "area": "Habilidades digitales de programación",
@@ -158,7 +162,7 @@
       "keywords": []
     },
     {
-      "name": "Jupyter Notebook",
+      "name": "R",
       "level": "Master",
       "keywords": []
     },
@@ -174,11 +178,6 @@
     },
     {
       "name": "Javascript",
-      "level": "Master",
-      "keywords": []
-    },
-    {
-      "name": "NodeJS",
       "level": "Master",
       "keywords": []
     }

@@ -6,7 +6,7 @@ import Card from '@/components/Card.astro';
 const title = 'Educación';
 
 education.sort((a, b) =>
-    a.endDate > b.endDate ? -1 : b.endDate > a.endDate ? 1 : 0,
+    a.order > b.order ? 1 : b.order > a.order ? -1 : 0,
 );
 ---
 
