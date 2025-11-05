@@ -2,6 +2,8 @@
 import { basics } from "@/cv.json";
 import Section from "@/components/Section.astro";
 import ContactInfo from "@/components/ContactInfo.astro";
+import { Image } from "astro:assets";
+import profilePic from "@/images/perfil_01.jpg";
 
 const { profiles } = basics;
 ---
@@ -33,8 +35,8 @@ const { profiles } = basics;
                 ))
             }
         </div>
-        <figure class="w-36">
-            <img class="rounded-md border-black border-4" src={basics.image} alt="profile" />
+        <figure class="w-36 rounded-md border-black border-4">
+            <Image src={profilePic} alt="profile" />
         </figure>
     </div>
 </Section>
