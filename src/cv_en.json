@@ -1,0 +1,231 @@
+{
+  "basics": {
+    "name": "Daniel Alfonso Arteta Salazar",
+    "label": "Economics | Data Analysis | Actuarial Science | Programming",
+    "image": "src/images/perfil_01.jpg",
+    "email": "danielatts97@protonmail.com",
+    "phone": "+57 312 525 7772",
+    "url": "https://danattsresume.netlify.app/",
+    "summary": "Economics professional with a focus on data analysis, backed by solid training in information technologies and data science that enables the management, processing, and interpretation of information using specialized tools. I have experience in rigorous data analysis and the preparation of technical documents and analytical reports aimed at supporting strategic decision-making. I am characterized by a proactive, solution-oriented, and adaptable approach, as well as the ability to integrate technical knowledge and economic analysis to generate effective solutions, working collaboratively and with a strong institutional commitment.",
+    "location": {
+      "address": "Cl 24B # 71 - 04",
+      "postalCode": "110931",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Danatts",
+        "url": "https://github.com/Danatts"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Daniel Alfonso Arteta Salazar",
+        "url": "https://www.linkedin.com/in/danielartetasalazar/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ministerio del Trabajo",
+      "position": "Technical Lead and Data Analyst",
+      "url": "https://www.mintrabajo.gov.co/",
+      "startDate": "2024-07-3",
+      "endDate": "",
+      "summary": "Technical lead of a state incentive program for labor formalization, responsible for the management, cleansing, and processing of the program's databases and the Ministry's internal control systems. I developed quantitative and statistical analyses of the information for the preparation of technical reports and control dashboards, aimed at monitoring indicators, evaluating results, and supporting decision-making. I also provided data-driven technical support for the design, development, and implementation of labor formalization strategies and public policies.",
+      "highlights": [
+        "Development and maintenance of the company's web application",
+        "Product quality assurance",
+        "Application of agile methodologies"
+      ]
+    },
+    {
+      "name": "Registraduria Nacional de Colombia",
+      "position": "University Professional",
+      "url": "https://registraduria.gov.co/",
+      "startDate": "2023-09-5",
+      "endDate": "2024-02-16",
+      "summary": "Execution of various functions including data management and presentation for report generation, participation in the logistics and development of electoral processes, and public service ensuring efficient and satisfactory service.",
+      "highlights": [
+        "Support in data management and presentation for report generation",
+        "Support in the logistics and development of electoral processes",
+        "Public service"
+      ]
+    },
+    {
+      "name": "Coally",
+      "position": "Software Developer",
+      "url": "https://coally.com/",
+      "startDate": "2022-10-18",
+      "endDate": "2023-04-1",
+      "summary": "Development and maintenance of the web application for a Colombian startup dedicated to connecting companies with young talent. With emphasis on frontend development, user database management, and quality testing.",
+      "highlights": [
+        "Development and maintenance of the company's web application",
+        "Product quality assurance",
+        "Application of agile methodologies"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "order": 0,
+      "institution": "Universidad Antonio Nariño",
+      "url": "https://www.uan.edu.co/especializacion-en-actuaria",
+      "area": "Actuarial Science",
+      "studyType": "Specialization",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "order": 2,
+      "institution": "Universidad Nacional de Colombia",
+      "url": "https://unal.edu.co/",
+      "area": "Economics",
+      "studyType": "Undergraduate",
+      "startDate": "2015-02-01",
+      "endDate": "2022-11-01",
+      "score": "3.7",
+      "courses": []
+    },
+    {
+      "order": 1,
+      "institution": "Universidad del Rosario",
+      "url": "https://urosario.edu.co/",
+      "area": "Data Science",
+      "studyType": "Diploma",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "order": 3,
+      "institution": "Universidad del Norte",
+      "url": "https://www.uninorte.edu.co/",
+      "area": "Digital Programming Skills",
+      "studyType": "State Program",
+      "startDate": "2020-02-01",
+      "endDate": "2020-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Exploration",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Report Generation",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "PowerBi",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "VBA",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Chess",
+      "keywords": []
+    },
+    {
+      "name": "Calisthenics",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}
